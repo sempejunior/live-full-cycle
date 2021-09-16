@@ -51,14 +51,11 @@
             </div>
           </template>
             <ul>
-              <li>Independência de frameworks</li>
-              <li>Códigos menores e mais fáceis de serem testados</li>
-              <li>Frontends com menores responsabilidades</li>
-              <li>Deploys independentes</li>
-              <li>Maior escalabilidade</li>
-              <li>Uma forma de evoluir frontends legados</li>
-              <li>Possibilidade de upgrade, update e reescrita de pequenas partes</li>
-              <li>Menor acoplamento e maior coesão</li>
+              <li>Tamanho do payload</li>
+              <li>Complexidade</li>
+              <li>Responsabilidade compartilhada</li>
+              <li>Testes E2E</li>
+              <li>Manter a coerência de estilos.</li>
             </ul>  
           </el-card>
       </el-col>
