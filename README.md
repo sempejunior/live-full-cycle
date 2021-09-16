@@ -7,11 +7,6 @@
 
   <p align="center">
     This project it's created on the live with Dev Full Cycle about micro frontend architecture. The live was shown on September 15, 2021. To demonstrate the architecture, 5 projects were created. First, I created the root project. This project is responsible for calling routes to other micro frontends and injecting dependencies. I created 3 other projects, 2 in react (navbar and app1) and 1 in vue (home) and created 1 to footer using Angular 12. In the live show I demonstrated how the micro frontend architecture works and how we can use many independent projects and frameworks in the same Dom.
-    <br />
-   
-   [![IMAGE ALT TEXT](https://img.youtube.com/vi/KZpSghOWOnE/maxresdefault.jpg)](https://www.youtube.com/watch?v=KZpSghOWOnE "Micro Frontends na Prática")
-
-    <br />
   </p>
 </p>
 
