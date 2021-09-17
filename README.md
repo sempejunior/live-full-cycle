@@ -6,12 +6,8 @@
   <h3 align="center">Live Micro Frontends with Full Cycle</h3>
 
   <p align="center">
-    This project it's created on the live with Dev Full Cycle about micro frontend architecture. The live was shown on September 15, 2021. To demonstrate the architecture, 5 projects were created. First, I created the root project. This project is responsible for calling routes to other micro frontends and injecting dependencies. I created 3 other projects, 2 in react (navbar and app1) and 1 in vue (home) and created 1 to footer using Angular 12. In the live show I demonstrated how the micro frontend architecture works and how we can use many independent projects and frameworks in the same Dom.
-    <br />
-   
-   [![IMAGE ALT TEXT](https://img.youtube.com/vi/KZpSghOWOnE/maxresdefault.jpg)](https://www.youtube.com/watch?v=KZpSghOWOnE "Micro Frontends na Prática")
-
-    <br />
+    This project it's created on the live with Dev Full Cycle about micro frontend architecture. The live was shown on September 15, 2021. To demonstrate the architecture, 5 projects were created. First, I created the root project. This project is responsible for calling routes to other micro frontends and injecting dependencies. I created 3 other projects and transform on another project in micro frontend.
+The projects are: 2 in react (navbar and app1) , 1 (project transformed on mfe) in vue (home) and created 1 to footer using Angular 12. In the live show I demonstrated how the micro frontend architecture works and how we can use many independent projects and frameworks in the same Dom.
   </p>
 </p>
 
@@ -82,11 +78,12 @@ Execute this on all folders (all micro frontends)
    ```
 
 3. Start
-   ```sh
+   ```
    yarn start
    or
    yarn serve
-   or yarn run serve:single-spa:footer
+   or
+   yarn run serve:single-spa:footer
    ```
 
 4. The micro frontend is here
